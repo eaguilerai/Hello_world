@@ -16,6 +16,7 @@ int main(int argc, char** argv)
     using std::endl;
 
     cout << "Hello world!" << endl;
+    system("pause");
     return 0;
 }
 
